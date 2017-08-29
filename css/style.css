@@ -1,0 +1,16 @@
+/* YOUR CUSTOM STYLES */
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:"Lucida Console", Monaco, monospace;
+    color: pink;
+    padding: 2cm 4cm 3cm 4cm;
+}
+
+p {
+    font-size: 40px;
+}
+
+p {
+    margin: 0cm 2cm 2cm 2cm;
+}
